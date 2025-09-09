@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Lương Gia Quy>, MSSV <221848>.
+Đây là README từ nhánh main.
